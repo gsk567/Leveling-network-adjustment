@@ -1,2 +1,2 @@
 # Leveling-network-adjustment
-Script for leveling network adjustment with interactive figure drawing
+MATLAB script for leveling network adjustment with interactive figure drawing
